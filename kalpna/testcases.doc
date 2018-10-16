@@ -1,0 +1,21 @@
+		===PROGRAM 1===
+***========Test cases=========***
+1.if thread 1 create succesfully it will print theread 1 create successful.
+2.if thread 2 create succesfully it will print theread 2 create successful.
+3.if thread 3 create succesfully it will print theread 3 create successful.
+4.if thread 4 create succesfully it will print theread 4 create successful.
+
+
+**if 4 threads create successfully //Thread 1 print 1.
+				   //Thread 2 print 2.
+				   //Thread 3 print 3.
+				   //Thread 4 print 4. continueslly.
+
+=======	THE RESULT OF EACH TEST CASE WAS PASS=========
+
+
+
+=========PROGRAM 2==========
+1.Enter how many no of rows&cols you want.
+2.it will print dimonsional array of elements.
+3 1 st test case was pass.

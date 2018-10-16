@@ -1,0 +1,3 @@
+Test cases:
+1.pass the data in function call as you want
+2.For deleting nodes call the delete_end function how many elements you want to delete. 

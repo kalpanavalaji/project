@@ -1,0 +1,14 @@
+=============PROGRAM 1======
+**========Assumptions=======**
+1.I want to create 4 threads using 4 threads thread1 would be print 1,thread2 would be print 2,thread3 would be print 3,thread 4  would be print 4
+ continuesly infinity times.
+2.For thread  synchronization i want to use 4 semaphores.
+
+
+	====== PROGRAM 2=====
+1.I want to create dynamical matrix using double pointers.
+2.Take input from user no of rows&cols.
+3.Take input from user data of the array.
+4.print the matrix.
+5.print the micro blocks from the matrix.
+6.sum the matrix.
